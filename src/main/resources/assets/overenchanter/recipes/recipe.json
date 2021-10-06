@@ -1,0 +1,22 @@
+{
+  "result": {
+    "item": "overenchanter:over_enchanter"
+  },
+  "pattern": [
+    " T ",
+    "cMc",
+    "MMM"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "T": {
+      "item": "minecraft:lapis_block"
+    },
+    "c": {
+      "item": "minecraft:emerald"
+    },
+    "M": {
+      "item": "minecraft:obsidian"
+    }
+  }
+}
